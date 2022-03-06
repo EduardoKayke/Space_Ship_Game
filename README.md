@@ -2,8 +2,9 @@
 
 ## Sobre o projeto.
 Esse é um projeto de um jogo muito famoso. Um clone de Space Ship.
-<br><br>
-Data de conclusão: 2/02/2022<br><br>
+
+Data de conclusão: 2/02/2022
+
 ## Ferramentas e tecnologias usadas nesse projeto.
  
 ```js
